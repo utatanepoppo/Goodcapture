@@ -1,2 +1,2 @@
 # Goodcapture
-A desktop application that screenshots websites.
+This Electron desktop application can do screenshots of websites.
